@@ -1,0 +1,13 @@
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# IDE files
+.vscode
+.idea
+.iml
+
+# Misc
+.DS_Store
+
+# Dev
+*.env
